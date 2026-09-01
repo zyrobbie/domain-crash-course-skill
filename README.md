@@ -45,4 +45,4 @@
 
 ## License
 
-MIT © 2026 zyrobbie
+[MIT](LICENSE) © 2026 zyrobbie
